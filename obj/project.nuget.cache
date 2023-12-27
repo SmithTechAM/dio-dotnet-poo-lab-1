@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4fp4a5O5cwwwcbv/iruEo1QO4dK0VJIKS2oWHwY/JnCWW187HuLZbkz7Z4mR8EoYUlZ0Nrk7wrUSP1uybDeQUw==",
+  "dgSpecHash": "2UfJrOhh3Nu7WIhbDI7SYNlAIzfSXj+TH6+/j6IYlaS+F0hOOc02N+S+nJ2V1FZrOf1/AW/8y6RXwAI0i2l93g==",
   "success": true,
-  "projectFilePath": "/home/eliezer/sandbox/dio/DIO.Bank/DIO.Bank.csproj",
+  "projectFilePath": "C:\\Users\\lucas.smith\\Documents\\Projetos\\dio-dotnet-poo-lab-1\\DIO.Bank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
